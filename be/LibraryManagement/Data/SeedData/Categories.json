@@ -1,0 +1,1286 @@
+[
+    {
+        "Name": "History"
+    },
+    {
+        "Name": "General"
+    },
+    {
+        "Name": "Fiction"
+    },
+    {
+        "Name": "Cooking"
+    },
+    {
+        "Name": "Reference"
+    },
+    {
+        "Name": "Self-help"
+    },
+    {
+        "Name": "Personal Growth"
+    },
+    {
+        "Name": "Self-Esteem"
+    },
+    {
+        "Name": "Poetry"
+    },
+    {
+        "Name": "Biography & Autobiography"
+    },
+    {
+        "Name": "Health & Fitness"
+    },
+    {
+        "Name": "Diet & Nutrition"
+    },
+    {
+        "Name": "Diets"
+    },
+    {
+        "Name": "Technology & Engineering"
+    },
+    {
+        "Name": "Military Science"
+    },
+    {
+        "Name": "Religion"
+    },
+    {
+        "Name": "Ethics"
+    },
+    {
+        "Name": "Biblical Biography"
+    },
+    {
+        "Name": "Personal Memoirs"
+    },
+    {
+        "Name": "Philosophy"
+    },
+    {
+        "Name": "Political Science"
+    },
+    {
+        "Name": "Juvenile Nonfiction"
+    },
+    {
+        "Name": "Pets"
+    },
+    {
+        "Name": "Cats"
+    },
+    {
+        "Name": "Psychology"
+    },
+    {
+        "Name": "Psychopathology"
+    },
+    {
+        "Name": "Anxieties & Phobias"
+    },
+    {
+        "Name": "Family & Relationships"
+    },
+    {
+        "Name": "Love & Romance"
+    },
+    {
+        "Name": "Military"
+    },
+    {
+        "Name": "World War II"
+    },
+    {
+        "Name": "Government"
+    },
+    {
+        "Name": "Executive Branch"
+    },
+    {
+        "Name": "Anthologies (multiple authors)"
+    },
+    {
+        "Name": "Sports & Recreation"
+    },
+    {
+        "Name": "Literary"
+    },
+    {
+        "Name": "Inspirational"
+    },
+    {
+        "Name": "Psychology of Religion"
+    },
+    {
+        "Name": "Health & Healing"
+    },
+    {
+        "Name": "Low Fat"
+    },
+    {
+        "Name": "Photography"
+    },
+    {
+        "Name": "Subjects & Themes"
+    },
+    {
+        "Name": "Regional"
+    },
+    {
+        "Name": "Women"
+    },
+    {
+        "Name": "Specific Ingredients"
+    },
+    {
+        "Name": "Herbs"
+    },
+    {
+        "Name": "Spices"
+    },
+    {
+        "Name": "Condiments"
+    },
+    {
+        "Name": "Business & Economics"
+    },
+    {
+        "Name": "Management"
+    },
+    {
+        "Name": "Medical"
+    },
+    {
+        "Name": "Holistic Medicine"
+    },
+    {
+        "Name": "Food Content Guides"
+    },
+    {
+        "Name": "Economic Conditions"
+    },
+    {
+        "Name": "Advertising & Promotion"
+    },
+    {
+        "Name": "Finance"
+    },
+    {
+        "Name": "Marketing"
+    },
+    {
+        "Name": "Parenting"
+    },
+    {
+        "Name": "Motherhood"
+    },
+    {
+        "Name": "Mystery & Detective"
+    },
+    {
+        "Name": "Adventurers & Explorers"
+    },
+    {
+        "Name": "American Government"
+    },
+    {
+        "Name": "Travel"
+    },
+    {
+        "Name": "United States"
+    },
+    {
+        "Name": "Humor"
+    },
+    {
+        "Name": "Form"
+    },
+    {
+        "Name": "Limericks & Verse"
+    },
+    {
+        "Name": "Siblings"
+    },
+    {
+        "Name": "Science"
+    },
+    {
+        "Name": "Applied Sciences"
+    },
+    {
+        "Name": "Performing Arts"
+    },
+    {
+        "Name": "Film"
+    },
+    {
+        "Name": "Presidents & Heads of State"
+    },
+    {
+        "Name": "Fantasy"
+    },
+    {
+        "Name": "Historical"
+    },
+    {
+        "Name": "Movements"
+    },
+    {
+        "Name": "Jungian"
+    },
+    {
+        "Name": "Games & Activities"
+    },
+    {
+        "Name": "Gambling"
+    },
+    {
+        "Name": "Table"
+    },
+    {
+        "Name": "Hearing & Speech"
+    },
+    {
+        "Name": "Young Adult Nonfiction"
+    },
+    {
+        "Name": "Quotations"
+    },
+    {
+        "Name": "Social Science"
+    },
+    {
+        "Name": "Ethnic Studies"
+    },
+    {
+        "Name": "African American Studies"
+    },
+    {
+        "Name": "American"
+    },
+    {
+        "Name": "Education"
+    },
+    {
+        "Name": "Special Education"
+    },
+    {
+        "Name": "Christianity"
+    },
+    {
+        "Name": "Church of Jesus Christ of Latter-day Saints (Mormon)"
+    },
+    {
+        "Name": "Folklore & Mythology"
+    },
+    {
+        "Name": "Social Topics"
+    },
+    {
+        "Name": "Death & Dying"
+    },
+    {
+        "Name": "Life Sciences"
+    },
+    {
+        "Name": "Ecology"
+    },
+    {
+        "Name": "Baseball"
+    },
+    {
+        "Name": "Essays & Writings"
+    },
+    {
+        "Name": "Personal Finance"
+    },
+    {
+        "Name": "Biology"
+    },
+    {
+        "Name": "Nature"
+    },
+    {
+        "Name": "Animals"
+    },
+    {
+        "Name": "Developmental"
+    },
+    {
+        "Name": "Child"
+    },
+    {
+        "Name": "Short Stories (single author)"
+    },
+    {
+        "Name": "Devotional"
+    },
+    {
+        "Name": "Meditations"
+    },
+    {
+        "Name": "Art"
+    },
+    {
+        "Name": "Depression"
+    },
+    {
+        "Name": "Environmental Science"
+    },
+    {
+        "Name": "Language Arts"
+    },
+    {
+        "Name": "Religious"
+    },
+    {
+        "Name": "House & Home"
+    },
+    {
+        "Name": "Motivational"
+    },
+    {
+        "Name": "Juvenile Fiction"
+    },
+    {
+        "Name": "Educational Policy & Reform"
+    },
+    {
+        "Name": "Fishing"
+    },
+    {
+        "Name": "Naturopathy"
+    },
+    {
+        "Name": "Regional & Ethnic"
+    },
+    {
+        "Name": "Christian Life"
+    },
+    {
+        "Name": "Family"
+    },
+    {
+        "Name": "Design"
+    },
+    {
+        "Name": "Graphic Arts"
+    },
+    {
+        "Name": "Illustration"
+    },
+    {
+        "Name": "Customs & Traditions"
+    },
+    {
+        "Name": "Anecdotes & Quotations"
+    },
+    {
+        "Name": "Aging"
+    },
+    {
+        "Name": "Romance"
+    },
+    {
+        "Name": "Careers"
+    },
+    {
+        "Name": "Beauty & Grooming"
+    },
+    {
+        "Name": "Gardening"
+    },
+    {
+        "Name": "Monasticism"
+    },
+    {
+        "Name": "Spirituality"
+    },
+    {
+        "Name": "Ethics & Moral Philosophy"
+    },
+    {
+        "Name": "Medical (incl. Patients)"
+    },
+    {
+        "Name": "Europe"
+    },
+    {
+        "Name": "Great Britain"
+    },
+    {
+        "Name": "Mathematics"
+    },
+    {
+        "Name": "Algebra"
+    },
+    {
+        "Name": "Body"
+    },
+    {
+        "Name": "Mind & Spirit"
+    },
+    {
+        "Name": "Marriage & Long-Term Relationships"
+    },
+    {
+        "Name": "International Relations"
+    },
+    {
+        "Name": "Arms Control"
+    },
+    {
+        "Name": "Dance"
+    },
+    {
+        "Name": "Classical & Ballet"
+    },
+    {
+        "Name": "Flowers"
+    },
+    {
+        "Name": "Annuals"
+    },
+    {
+        "Name": "Thrillers"
+    },
+    {
+        "Name": "Suspense"
+    },
+    {
+        "Name": "Southern"
+    },
+    {
+        "Name": "Orchids"
+    },
+    {
+        "Name": "Music"
+    },
+    {
+        "Name": "Genres & Styles"
+    },
+    {
+        "Name": "Opera"
+    },
+    {
+        "Name": "Entertainment & Performing Arts"
+    },
+    {
+        "Name": "Young Adult Fiction"
+    },
+    {
+        "Name": "Beverages"
+    },
+    {
+        "Name": "Wine & Spirits"
+    },
+    {
+        "Name": "Readers"
+    },
+    {
+        "Name": "Chapter Books"
+    },
+    {
+        "Name": "West"
+    },
+    {
+        "Name": "Pacific (AK"
+    },
+    {
+        "Name": "CA"
+    },
+    {
+        "Name": "HI"
+    },
+    {
+        "Name": "OR"
+    },
+    {
+        "Name": "WA)"
+    },
+    {
+        "Name": "Christian"
+    },
+    {
+        "Name": "War & Military"
+    },
+    {
+        "Name": "Drama"
+    },
+    {
+        "Name": "European"
+    },
+    {
+        "Name": "Political Process"
+    },
+    {
+        "Name": "Political Parties"
+    },
+    {
+        "Name": "Inspirational & Religious"
+    },
+    {
+        "Name": "Sexual Instruction"
+    },
+    {
+        "Name": "Science Fiction"
+    },
+    {
+        "Name": "Literary Criticism"
+    },
+    {
+        "Name": "Concepts"
+    },
+    {
+        "Name": "Counting & Numbers"
+    },
+    {
+        "Name": "Editors"
+    },
+    {
+        "Name": "Journalists"
+    },
+    {
+        "Name": "Publishers"
+    },
+    {
+        "Name": "Comic Strips & Cartoons"
+    },
+    {
+        "Name": "Seasonal"
+    },
+    {
+        "Name": "Methods"
+    },
+    {
+        "Name": "Wok"
+    },
+    {
+        "Name": "Crafts & Hobbies"
+    },
+    {
+        "Name": "Biographical"
+    },
+    {
+        "Name": "Life Stages"
+    },
+    {
+        "Name": "Adolescence"
+    },
+    {
+        "Name": "Western"
+    },
+    {
+        "Name": "Cleaning & Caretaking"
+    },
+    {
+        "Name": "Wars & Conflicts (Other)"
+    },
+    {
+        "Name": "Nursery Rhymes"
+    },
+    {
+        "Name": "Inspiration & Personal Growth"
+    },
+    {
+        "Name": "Architecture"
+    },
+    {
+        "Name": "Interior Design"
+    },
+    {
+        "Name": "Cosmology"
+    },
+    {
+        "Name": "Nutrition"
+    },
+    {
+        "Name": "Taxation"
+    },
+    {
+        "Name": "Spiritual Growth"
+    },
+    {
+        "Name": "Techniques"
+    },
+    {
+        "Name": "Cartooning"
+    },
+    {
+        "Name": "Computers"
+    },
+    {
+        "Name": "Programming"
+    },
+    {
+        "Name": "Games"
+    },
+    {
+        "Name": "Composers & Musicians"
+    },
+    {
+        "Name": "Women's Studies"
+    },
+    {
+        "Name": "Soccer"
+    },
+    {
+        "Name": "Cults"
+    },
+    {
+        "Name": "Musical Instruments"
+    },
+    {
+        "Name": "Piano & Keyboard"
+    },
+    {
+        "Name": "Sports"
+    },
+    {
+        "Name": "Disabilities & Special Needs"
+    },
+    {
+        "Name": "Foreign Language Study"
+    },
+    {
+        "Name": "German"
+    },
+    {
+        "Name": "Language Arts & Disciplines"
+    },
+    {
+        "Name": "Publishing"
+    },
+    {
+        "Name": "Women Sleuths"
+    },
+    {
+        "Name": "Africa"
+    },
+    {
+        "Name": "Terrorism"
+    },
+    {
+        "Name": "Shakespeare"
+    },
+    {
+        "Name": "English"
+    },
+    {
+        "Name": "Irish"
+    },
+    {
+        "Name": "Scottish"
+    },
+    {
+        "Name": "Welsh"
+    },
+    {
+        "Name": "Gerontology"
+    },
+    {
+        "Name": "Ethnic & Tribal"
+    },
+    {
+        "Name": "Classics"
+    },
+    {
+        "Name": "Occultism"
+    },
+    {
+        "Name": "Calculus"
+    },
+    {
+        "Name": "Anthropology"
+    },
+    {
+        "Name": "Cultural & Social"
+    },
+    {
+        "Name": "Health Care Issues"
+    },
+    {
+        "Name": "Golf"
+    },
+    {
+        "Name": "South"
+    },
+    {
+        "Name": "South Atlantic (DC"
+    },
+    {
+        "Name": "DE"
+    },
+    {
+        "Name": "FL"
+    },
+    {
+        "Name": "GA"
+    },
+    {
+        "Name": "MD"
+    },
+    {
+        "Name": "NC"
+    },
+    {
+        "Name": "SC"
+    },
+    {
+        "Name": "VA"
+    },
+    {
+        "Name": "WV)"
+    },
+    {
+        "Name": "Science & Nature"
+    },
+    {
+        "Name": "Earth Sciences"
+    },
+    {
+        "Name": "French"
+    },
+    {
+        "Name": "Birds"
+    },
+    {
+        "Name": "Buddhism"
+    },
+    {
+        "Name": "Archaeology"
+    },
+    {
+        "Name": "Northeast"
+    },
+    {
+        "Name": "Middle Atlantic (NJ"
+    },
+    {
+        "Name": "NY"
+    },
+    {
+        "Name": "PA)"
+    },
+    {
+        "Name": "Political"
+    },
+    {
+        "Name": "Fantasy & Magic"
+    },
+    {
+        "Name": "Biblical Studies"
+    },
+    {
+        "Name": "Social Themes"
+    },
+    {
+        "Name": "Emotions & Feelings"
+    },
+    {
+        "Name": "Psychotherapy"
+    },
+    {
+        "Name": "Couples & Family"
+    },
+    {
+        "Name": "Modern"
+    },
+    {
+        "Name": "19th Century"
+    },
+    {
+        "Name": "Asia"
+    },
+    {
+        "Name": "China"
+    },
+    {
+        "Name": "Codependency"
+    },
+    {
+        "Name": "Criticism & Theory"
+    },
+    {
+        "Name": "Royalty"
+    },
+    {
+        "Name": "Judaism"
+    },
+    {
+        "Name": "Dictionaries"
+    },
+    {
+        "Name": "Industries"
+    },
+    {
+        "Name": "Hospitality"
+    },
+    {
+        "Name": "Travel & Tourism"
+    },
+    {
+        "Name": "Sexuality"
+    },
+    {
+        "Name": "Civil Rights"
+    },
+    {
+        "Name": "Security"
+    },
+    {
+        "Name": "Card Games"
+    },
+    {
+        "Name": "Poker"
+    },
+    {
+        "Name": "Vegetables"
+    },
+    {
+        "Name": "Courses & Dishes"
+    },
+    {
+        "Name": "New Testament"
+    },
+    {
+        "Name": "Paul's Letters"
+    },
+    {
+        "Name": "Topic"
+    },
+    {
+        "Name": "Investing"
+    },
+    {
+        "Name": "Friendship"
+    },
+    {
+        "Name": "Plants"
+    },
+    {
+        "Name": "Trees"
+    },
+    {
+        "Name": "Landscape"
+    },
+    {
+        "Name": "Spain & Portugal"
+    },
+    {
+        "Name": "Humorous"
+    },
+    {
+        "Name": "Lifespan Development"
+    },
+    {
+        "Name": "Literary Collections"
+    },
+    {
+        "Name": "Sociology"
+    },
+    {
+        "Name": "Marriage & Family"
+    },
+    {
+        "Name": "Antiques & Collectibles"
+    },
+    {
+        "Name": "Care & Restoration"
+    },
+    {
+        "Name": "World"
+    },
+    {
+        "Name": "Fairy Tales & Folklore"
+    },
+    {
+        "Name": "Christian Living"
+    },
+    {
+        "Name": "Women's Interests"
+    },
+    {
+        "Name": "Boating"
+    },
+    {
+        "Name": "Essays & Travelogues"
+    },
+    {
+        "Name": "Civil War Period (1850-1877)"
+    },
+    {
+        "Name": "Business Aspects"
+    },
+    {
+        "Name": "Amish"
+    },
+    {
+        "Name": "Self-Management"
+    },
+    {
+        "Name": "Stress Management"
+    },
+    {
+        "Name": "Lifestyles"
+    },
+    {
+        "Name": "Farm & Ranch Life"
+    },
+    {
+        "Name": "Dogs"
+    },
+    {
+        "Name": "Football"
+    },
+    {
+        "Name": "Law"
+    },
+    {
+        "Name": "Legal Profession"
+    },
+    {
+        "Name": "Artists"
+    },
+    {
+        "Name": "Architects"
+    },
+    {
+        "Name": "Photographers"
+    },
+    {
+        "Name": "Horror"
+    },
+    {
+        "Name": "Middle East"
+    },
+    {
+        "Name": "History & Surveys"
+    },
+    {
+        "Name": "Essays"
+    },
+    {
+        "Name": "Stenciling"
+    },
+    {
+        "Name": "Soups & Stews"
+    },
+    {
+        "Name": "Parapsychology"
+    },
+    {
+        "Name": "ESP (Clairvoyance"
+    },
+    {
+        "Name": "Precognition"
+    },
+    {
+        "Name": "Telepathy)"
+    },
+    {
+        "Name": "Women's Health"
+    },
+    {
+        "Name": "Sagas"
+    },
+    {
+        "Name": "Psychiatry"
+    },
+    {
+        "Name": "Child & Adolescent"
+    },
+    {
+        "Name": "Technology"
+    },
+    {
+        "Name": "Public Policy"
+    },
+    {
+        "Name": "Economic Policy"
+    },
+    {
+        "Name": "Weddings"
+    },
+    {
+        "Name": "Cultural Heritage"
+    },
+    {
+        "Name": "Urban"
+    },
+    {
+        "Name": "Caribbean & West Indies"
+    },
+    {
+        "Name": "Criminology"
+    },
+    {
+        "Name": "Parodies"
+    },
+    {
+        "Name": "Puzzles"
+    },
+    {
+        "Name": "Applied Psychology"
+    },
+    {
+        "Name": "Naval"
+    },
+    {
+        "Name": "State & Local"
+    },
+    {
+        "Name": "Middle Atlantic (DC"
+    },
+    {
+        "Name": "NJ"
+    },
+    {
+        "Name": "Comics & Graphic Novels"
+    },
+    {
+        "Name": "Popular Culture"
+    },
+    {
+        "Name": "Bartending"
+    },
+    {
+        "Name": "Public Affairs & Administration"
+    },
+    {
+        "Name": "Kayaking"
+    },
+    {
+        "Name": "Prayer"
+    },
+    {
+        "Name": "Discrimination"
+    },
+    {
+        "Name": "Sewing"
+    },
+    {
+        "Name": "Ancient & Classical"
+    },
+    {
+        "Name": "Lutheran"
+    },
+    {
+        "Name": "History & Theory"
+    },
+    {
+        "Name": "Development"
+    },
+    {
+        "Name": "Business Development"
+    },
+    {
+        "Name": "Decorating"
+    },
+    {
+        "Name": "Radio"
+    },
+    {
+        "Name": "Leadership"
+    },
+    {
+        "Name": "New Thought"
+    },
+    {
+        "Name": "Horse Racing"
+    },
+    {
+        "Name": "Motor Sports"
+    },
+    {
+        "Name": "20th Century"
+    },
+    {
+        "Name": "Affirmations"
+    },
+    {
+        "Name": "Herbal Medications"
+    },
+    {
+        "Name": "Exercise"
+    },
+    {
+        "Name": "Country & Bluegrass"
+    },
+    {
+        "Name": "Emotions"
+    },
+    {
+        "Name": "Zoology"
+    },
+    {
+        "Name": "Criminal Law"
+    },
+    {
+        "Name": "Transportation"
+    },
+    {
+        "Name": "Aviation"
+    },
+    {
+        "Name": "Medieval"
+    },
+    {
+        "Name": "Mountaineering"
+    },
+    {
+        "Name": "Interpersonal Relations"
+    },
+    {
+        "Name": "Chess"
+    },
+    {
+        "Name": "Breeds"
+    },
+    {
+        "Name": "Research"
+    },
+    {
+        "Name": "Computer Graphics"
+    },
+    {
+        "Name": "Needlework"
+    },
+    {
+        "Name": "Embroidery"
+    },
+    {
+        "Name": "Outdoor"
+    },
+    {
+        "Name": "Classical"
+    },
+    {
+        "Name": "Hardware"
+    },
+    {
+        "Name": "Personal Computers"
+    },
+    {
+        "Name": "PCs"
+    },
+    {
+        "Name": "Special Interest"
+    },
+    {
+        "Name": "Adventure"
+    },
+    {
+        "Name": "Iraq War (2003-2011)"
+    },
+    {
+        "Name": "LGBT Studies"
+    },
+    {
+        "Name": "Lesbian Studies"
+    },
+    {
+        "Name": "Physics"
+    },
+    {
+        "Name": "Rhetoric"
+    },
+    {
+        "Name": "Teaching Methods & Materials"
+    },
+    {
+        "Name": "Aeronautics & Astronautics"
+    },
+    {
+        "Name": "Testing & Measurement"
+    },
+    {
+        "Name": "Social Aspects"
+    },
+    {
+        "Name": "African American"
+    },
+    {
+        "Name": "Hard-Boiled"
+    },
+    {
+        "Name": "Folk & Outsider Art"
+    },
+    {
+        "Name": "Feminism & Feminist Theory"
+    },
+    {
+        "Name": "Western States"
+    },
+    {
+        "Name": "Cookies"
+    },
+    {
+        "Name": "Holiday"
+    },
+    {
+        "Name": "Home Schooling"
+    },
+    {
+        "Name": "Vegetarian"
+    },
+    {
+        "Name": "Action & Adventure"
+    },
+    {
+        "Name": "Gymnastics"
+    },
+    {
+        "Name": "Anatomy & Physiology"
+    },
+    {
+        "Name": "Study Aids"
+    },
+    {
+        "Name": "Study & Test-Taking Skills"
+    },
+    {
+        "Name": "Networking"
+    },
+    {
+        "Name": "Network Protocols"
+    },
+    {
+        "Name": "Values & Virtues"
+    },
+    {
+        "Name": "Data Transmission Systems"
+    },
+    {
+        "Name": "Individual Architects & Firms"
+    },
+    {
+        "Name": "Drawing"
+    },
+    {
+        "Name": "Security (National & International)"
+    },
+    {
+        "Name": "Homeopathy"
+    },
+    {
+        "Name": "Weight Loss"
+    },
+    {
+        "Name": "Success"
+    },
+    {
+        "Name": "Courts"
+    },
+    {
+        "Name": "Social Psychology"
+    },
+    {
+        "Name": "Americana"
+    },
+    {
+        "Name": "Psychopharmacology"
+    }
+]
