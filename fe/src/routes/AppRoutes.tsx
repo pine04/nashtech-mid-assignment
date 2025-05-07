@@ -15,6 +15,7 @@ import { AdminCategoriesPage } from "../pages/AdminCategoriesPage"
 import { CategoryAddPage } from "../pages/CategoryAddPage"
 import { CategoryEditPage } from "../pages/CategoryEditPage"
 import { AdminRequestsPage } from "../pages/AdminRequestsPage"
+import { BooksLayout } from "../layouts/BooksLayout"
 
 export const AppRoutes = () => {
     return (
@@ -22,8 +23,10 @@ export const AppRoutes = () => {
             <Route path="/" element={<NormalUserRoute />}>
                 <Route path="" element={<Navigate to="/books" />} />
 
-                <Route path="books" element={<BooksPage />} />
-                <Route path="books/:id" element={<BookDetailsPage />} />
+                <Route path="books" element={<BooksLayout />}>
+                    <Route path="" element={<BooksPage />} />
+                    <Route path=":id" element={<BookDetailsPage />} />
+                </Route>
 
                 <Route path="my-borrowings" element={<MyBorrowingsPage />} />
 
